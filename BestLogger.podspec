@@ -10,5 +10,4 @@ Pod::Spec.new do |spec|
   spec.module_name = "BestLogger"
   spec.source       = { :git => "https://github.com/rathishubham7/swift-logger.git", :tag => spec.version }
   spec.source_files = "Sources/BestLogger/*.{swift}","Sources/BestLogger/**/*.{swift}"
-  spec.dependency 'Torus-utils', '~> 0.0.1'
 end
