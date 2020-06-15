@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "BestLogger"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.platform = :ios, "10.0"
   spec.summary      = "A simple, one file, logger for swift"
   spec.homepage     = "https://github.com/rathishubham7/swift-logger"
