@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.platform = :ios, "10.0"
   spec.summary      = "A simple, one file, logger for swift"
-  spec.homepage     = "https://github.com/rathishubham017/best-logger"
+  spec.homepage     = "https://github.com/rathishubham017/swift-logger"
   spec.license      = { :type => 'MIT', :file => 'License.md' }
   spec.swift_version   = "5.0"
   spec.author       = { "Shubham Rathi" => "rathishubham017@gmail.com" }
