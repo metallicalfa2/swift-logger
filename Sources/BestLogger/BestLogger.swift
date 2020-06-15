@@ -29,7 +29,7 @@ public struct BestLogger{
     /// - parameters:
     ///     - label: An identifier for the creator of a `Logger`.
     ///     - logLevel: A Identifier for log level
-    internal init(label: String, level: Level) {
+    public init(label: String, level: Level) {
         self.label = label
         self.logLevel = level
     }
