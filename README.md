@@ -1,6 +1,9 @@
 # BestLogger
 
+* THE REASON ITS CALLED BEST LOGGER IS BECAUSE EASYLOGGER WAS TAKEN AND SUBDEPENDECIES MIGHT HAVE LOGGER ALREADY DECLARED*
+
 This is a very simple, one file, swift logger which supports multiple arguments. 
+
 We support 6 logging levels
 * .trace = 0 // should be used for application flow. e.g., viewdidload executed
 * .debug // used for debugging
